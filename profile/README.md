@@ -9,7 +9,7 @@ O objetivo destes repositórios é criar um espaço de estudo e prática de Enge
 
 ## Repositórios Relacionados
 
-Cada tópico poderá ter um repositório específico com exemplos práticos, exercícios e projetos. Siga este repositório para acompanhar as atualizações!
+Cada tópico poderá ter um repositório específico com exemplos práticos, exercícios e projetos.
 
 ---
 
